@@ -1,0 +1,23 @@
+{
+  "name": "mocha-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahYarian/mocha-node.git"
+  },
+  "author": "Noah Yarian <Noah.Yarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahYarian/mocha-node/issues"
+  },
+  "homepage": "https://github.com/NoahYarian/mocha-node#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}

@@ -10,7 +10,7 @@ describe('Mocha + Chai', function () {
   });
 });
 
-describe.only('CLI', function() {
+describe('CLI', function() {
   it('should thank me for downloading', function(done) {
     console.log('cp');
     cp.execFile('./app.js', function(err, stdout) {

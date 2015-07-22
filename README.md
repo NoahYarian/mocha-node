@@ -1,1 +1,1 @@
-# mocha-node https://travis-ci.org/NoahYarian/mocha-node.svg?branch=master [![Coverage Status](https://coveralls.io/repos/NoahYarian/mocha-node/badge.svg?branch=master&service=github)](https://coveralls.io/github/NoahYarian/mocha-node?branch=master)
+# mocha-node [![Build Status](https://travis-ci.org/NoahYarian/mocha-node.svg?branch=master)](https://travis-ci.org/NoahYarian/mocha-node) [![Coverage Status](https://coveralls.io/repos/NoahYarian/mocha-node/badge.svg?branch=master&service=github)](https://coveralls.io/github/NoahYarian/mocha-node?branch=master)

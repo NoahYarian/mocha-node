@@ -1,7 +1,7 @@
 var path = require('path');
 var should = require('chai').should();
 var cp = require('child_process');
-var Animal = require(path.join(process.cwd() + '/lib/animal'));
+var Animal = require(path.join(process.cwd() + '/lib/Animal'));
 
 describe('Mocha + Chai', function () {
   it('truthyness', function () {
